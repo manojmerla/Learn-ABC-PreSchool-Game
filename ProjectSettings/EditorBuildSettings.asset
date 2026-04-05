@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Play.unity
+    guid: 1771ba6af69eeda459945150f77158a0
+  - enabled: 1
+    path: Assets/Scenes/mainmenu.unity
+    guid: 2779a44535289f74ca93c1a7f76d7f20
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Learn.unity
+    guid: 3e123edbf33b6134e9fb5eb88d6691e5
+  - enabled: 1
+    path: Assets/Scenes/balloon.unity
+    guid: d22d5446e9c4a254f86f386737290cb7
+  - enabled: 1
+    path: Assets/Scenes/NoInternet.unity
+    guid: 393aa6785f5dce24581af4bdb4ca9f8c
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
